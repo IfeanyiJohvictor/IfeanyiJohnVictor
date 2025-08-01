@@ -1,7 +1,16 @@
 # IfeanyiJohVictor - Data Analyst Portfolio
 
-Welcome! I'm a Data Analyst passionate about transforming raw data into actionable insights. I specialize in Excel, Python, Power BI, and data visualization.
-
+I'm a multi-disciplinary professional with expertise in:
+- Information Technology (Networking, Web Dev, Cybersecurity)
+- Business & Data Analysis (Excel, Python, Power BI)
+- Entrepreneurship & Innovation
+- Education & Leadership (Trainer, Mentor, MBA in view)
+  
+What I’m Learning
+- Data Visualization (Power BI, Matplotlib)
+- Machine Learning Foundations
+- Cloud DevOps (AWS, Azure)
+ 
  What I Do
 - Excel Analysis**: Sorting, filtering, pivot tables, lookup formulas
 - Python for Data**: Data wrangling, aggregation, CSV processing, visualization
@@ -16,8 +25,7 @@ Tools & Skills
 
 
 
-📁 Projects
-
+Projects
 1. Sales Dashboard with Excel**
 Tools: Excel  
 Features: Data sorting, Pivot Charts, VLOOKUP, filtering  
