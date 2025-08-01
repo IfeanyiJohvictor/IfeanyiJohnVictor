@@ -1,4 +1,4 @@
-# IfeanyiJohnVictor - Data Analyst Portfolio
+# IfeanyiJohVictor - Data Analyst Portfolio
 
 Welcome! I'm a Data Analyst passionate about transforming raw data into actionable insights. I specialize in Excel, Python, Power BI, and data visualization.
 
