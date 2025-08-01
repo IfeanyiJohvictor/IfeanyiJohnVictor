@@ -2,6 +2,11 @@
 
 Welcome! I'm a Data Analyst passionate about transforming raw data into actionable insights. I specialize in Excel, Python, Power BI, and data visualization.
 
+ What I Do
+- Excel Analysis**: Sorting, filtering, pivot tables, lookup formulas
+- Python for Data**: Data wrangling, aggregation, CSV processing, visualization
+- Power BI Dashboards**: Visual storytelling with interactive insights
+- Lifelong learner and advocate for digital upskilling
 
 Tools & Skills
 - Excel: Data Cleaning, Lookup Formulas, Pivot Tables
